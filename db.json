@@ -1,16 +1,16 @@
 {
-    "items": [
-        {
-            "id": "eb9d09a5-8e8d-4753-8abf-368428fc9cc2",
-            "name": "Fernando"
-        },
-        {
-            "name": "Paola",
-            "id": "452f037e-f1b0-4a1c-a3ef-a94809f2056d"
-        },
-        {
-            "name": "Gustavo",
-            "id": "3d921eb5-84aa-472e-aa78-612d9f44dd96"
-        }
-    ]
+  "items": [
+    {
+      "id": "eb9d09a5-8e8d-4753-8abf-368428fc9cc2",
+      "name": "Fernando"
+    },
+    {
+      "name": "Paola",
+      "id": "452f037e-f1b0-4a1c-a3ef-a94809f2056d"
+    },
+    {
+      "name": "Gustavo",
+      "id": "3d921eb5-84aa-472e-aa78-612d9f44dd96"
+    }
+  ]
 }
